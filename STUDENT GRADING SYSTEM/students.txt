@@ -1,0 +1,5 @@
+101,Alice Smith,84
+102,Kwame Mensah,72
+103,Ama Boateng,65
+104,John Doe,58
+105,Grace Owusu,42
